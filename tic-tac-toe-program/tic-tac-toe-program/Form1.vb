@@ -1,6 +1,14 @@
 ﻿Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+        clickButton1.Enabled = False
+        clickButton2.Enabled = False
+        clickButton3.Enabled = False
+        clickButton4.Enabled = False
+        clickButton5.Enabled = False
+        clickButton6.Enabled = False
+        clickButton7.Enabled = False
+        clickButton8.Enabled = False
+        clickButton9.Enabled = False
     End Sub
 
     Dim turnPoint As Boolean = True
@@ -438,6 +446,30 @@
     End Sub
 
     Private Sub buttonReset_Click(sender As Object, e As EventArgs) Handles buttonReset.Click
+        turnPoint = True
+
+        clickButton1.Text = ""
+        clickButton2.Text = ""
+        clickButton3.Text = ""
+        clickButton4.Text = ""
+        clickButton5.Text = ""
+        clickButton6.Text = ""
+        clickButton7.Text = ""
+        clickButton8.Text = ""
+        clickButton9.Text = ""
+
+        clickButton1.Enabled = True
+        clickButton2.Enabled = True
+        clickButton3.Enabled = True
+        clickButton4.Enabled = True
+        clickButton5.Enabled = True
+        clickButton6.Enabled = True
+        clickButton7.Enabled = True
+        clickButton8.Enabled = True
+        clickButton9.Enabled = True
+    End Sub
+
+    Private Sub StartButton_Click(sender As Object, e As EventArgs) Handles StartButton.Click
         turnPoint = True
 
         clickButton1.Text = ""

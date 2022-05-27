@@ -32,6 +32,7 @@ Partial Class Form1
         Me.clickButton2 = New System.Windows.Forms.Button()
         Me.clickButton3 = New System.Windows.Forms.Button()
         Me.buttonReset = New System.Windows.Forms.Button()
+        Me.StartButton = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'clickButton7
@@ -137,19 +138,31 @@ Partial Class Form1
         '
         Me.buttonReset.BackColor = System.Drawing.SystemColors.ControlDark
         Me.buttonReset.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.buttonReset.Location = New System.Drawing.Point(12, 291)
+        Me.buttonReset.Location = New System.Drawing.Point(17, 347)
         Me.buttonReset.Name = "buttonReset"
         Me.buttonReset.Size = New System.Drawing.Size(383, 50)
         Me.buttonReset.TabIndex = 1
         Me.buttonReset.Text = "Reset"
         Me.buttonReset.UseVisualStyleBackColor = False
         '
+        'StartButton
+        '
+        Me.StartButton.BackColor = System.Drawing.SystemColors.ControlDark
+        Me.StartButton.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.StartButton.Location = New System.Drawing.Point(17, 291)
+        Me.StartButton.Name = "StartButton"
+        Me.StartButton.Size = New System.Drawing.Size(383, 50)
+        Me.StartButton.TabIndex = 2
+        Me.StartButton.Text = "Start"
+        Me.StartButton.UseVisualStyleBackColor = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.RosyBrown
-        Me.ClientSize = New System.Drawing.Size(412, 353)
+        Me.ClientSize = New System.Drawing.Size(412, 409)
+        Me.Controls.Add(Me.StartButton)
         Me.Controls.Add(Me.buttonReset)
         Me.Controls.Add(Me.clickButton3)
         Me.Controls.Add(Me.clickButton6)
@@ -160,7 +173,10 @@ Partial Class Form1
         Me.Controls.Add(Me.clickButton1)
         Me.Controls.Add(Me.clickButton4)
         Me.Controls.Add(Me.clickButton7)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
+        Me.MaximizeBox = False
         Me.Name = "Form1"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Tic Tac Toe"
         Me.ResumeLayout(False)
 
@@ -176,4 +192,5 @@ Partial Class Form1
     Friend WithEvents clickButton2 As Button
     Friend WithEvents clickButton3 As Button
     Friend WithEvents buttonReset As Button
+    Friend WithEvents StartButton As Button
 End Class
