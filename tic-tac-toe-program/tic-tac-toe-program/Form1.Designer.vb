@@ -38,99 +38,99 @@ Partial Class Form1
         '
         Me.clickButton7.BackColor = System.Drawing.Color.MistyRose
         Me.clickButton7.Font = New System.Drawing.Font("Microsoft Sans Serif", 32.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clickButton7.ForeColor = System.Drawing.Color.DarkRed
         Me.clickButton7.Location = New System.Drawing.Point(13, 12)
         Me.clickButton7.Name = "clickButton7"
         Me.clickButton7.Size = New System.Drawing.Size(124, 87)
         Me.clickButton7.TabIndex = 0
-        Me.clickButton7.Text = "X"
         Me.clickButton7.UseVisualStyleBackColor = False
         '
         'clickButton4
         '
         Me.clickButton4.BackColor = System.Drawing.Color.MistyRose
         Me.clickButton4.Font = New System.Drawing.Font("Microsoft Sans Serif", 32.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clickButton4.ForeColor = System.Drawing.Color.DarkRed
         Me.clickButton4.Location = New System.Drawing.Point(13, 105)
         Me.clickButton4.Name = "clickButton4"
         Me.clickButton4.Size = New System.Drawing.Size(124, 87)
         Me.clickButton4.TabIndex = 0
-        Me.clickButton4.Text = "X"
         Me.clickButton4.UseVisualStyleBackColor = False
         '
         'clickButton8
         '
         Me.clickButton8.BackColor = System.Drawing.Color.MistyRose
         Me.clickButton8.Font = New System.Drawing.Font("Microsoft Sans Serif", 32.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clickButton8.ForeColor = System.Drawing.Color.DarkRed
         Me.clickButton8.Location = New System.Drawing.Point(143, 12)
         Me.clickButton8.Name = "clickButton8"
         Me.clickButton8.Size = New System.Drawing.Size(124, 87)
         Me.clickButton8.TabIndex = 0
-        Me.clickButton8.Text = "X"
         Me.clickButton8.UseVisualStyleBackColor = False
         '
         'clickButton1
         '
         Me.clickButton1.BackColor = System.Drawing.Color.MistyRose
         Me.clickButton1.Font = New System.Drawing.Font("Microsoft Sans Serif", 32.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clickButton1.ForeColor = System.Drawing.Color.DarkRed
         Me.clickButton1.Location = New System.Drawing.Point(13, 198)
         Me.clickButton1.Name = "clickButton1"
         Me.clickButton1.Size = New System.Drawing.Size(124, 87)
         Me.clickButton1.TabIndex = 0
-        Me.clickButton1.Text = "X"
         Me.clickButton1.UseVisualStyleBackColor = False
         '
         'clickButton5
         '
         Me.clickButton5.BackColor = System.Drawing.Color.MistyRose
         Me.clickButton5.Font = New System.Drawing.Font("Microsoft Sans Serif", 32.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clickButton5.ForeColor = System.Drawing.Color.DarkRed
         Me.clickButton5.Location = New System.Drawing.Point(143, 105)
         Me.clickButton5.Name = "clickButton5"
         Me.clickButton5.Size = New System.Drawing.Size(124, 87)
         Me.clickButton5.TabIndex = 0
-        Me.clickButton5.Text = "X"
         Me.clickButton5.UseVisualStyleBackColor = False
         '
         'clickButton9
         '
         Me.clickButton9.BackColor = System.Drawing.Color.MistyRose
         Me.clickButton9.Font = New System.Drawing.Font("Microsoft Sans Serif", 32.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clickButton9.ForeColor = System.Drawing.Color.DarkRed
         Me.clickButton9.Location = New System.Drawing.Point(273, 12)
         Me.clickButton9.Name = "clickButton9"
         Me.clickButton9.Size = New System.Drawing.Size(124, 87)
         Me.clickButton9.TabIndex = 0
-        Me.clickButton9.Text = "X"
         Me.clickButton9.UseVisualStyleBackColor = False
         '
         'clickButton6
         '
         Me.clickButton6.BackColor = System.Drawing.Color.MistyRose
         Me.clickButton6.Font = New System.Drawing.Font("Microsoft Sans Serif", 32.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clickButton6.ForeColor = System.Drawing.Color.DarkRed
         Me.clickButton6.Location = New System.Drawing.Point(273, 105)
         Me.clickButton6.Name = "clickButton6"
         Me.clickButton6.Size = New System.Drawing.Size(124, 87)
         Me.clickButton6.TabIndex = 0
-        Me.clickButton6.Text = "X"
         Me.clickButton6.UseVisualStyleBackColor = False
         '
         'clickButton2
         '
         Me.clickButton2.BackColor = System.Drawing.Color.MistyRose
         Me.clickButton2.Font = New System.Drawing.Font("Microsoft Sans Serif", 32.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clickButton2.ForeColor = System.Drawing.Color.DarkRed
         Me.clickButton2.Location = New System.Drawing.Point(143, 198)
         Me.clickButton2.Name = "clickButton2"
         Me.clickButton2.Size = New System.Drawing.Size(124, 87)
         Me.clickButton2.TabIndex = 0
-        Me.clickButton2.Text = "X"
         Me.clickButton2.UseVisualStyleBackColor = False
         '
         'clickButton3
         '
         Me.clickButton3.BackColor = System.Drawing.Color.MistyRose
         Me.clickButton3.Font = New System.Drawing.Font("Microsoft Sans Serif", 32.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.clickButton3.ForeColor = System.Drawing.Color.DarkRed
         Me.clickButton3.Location = New System.Drawing.Point(273, 198)
         Me.clickButton3.Name = "clickButton3"
         Me.clickButton3.Size = New System.Drawing.Size(124, 87)
         Me.clickButton3.TabIndex = 0
-        Me.clickButton3.Text = "X"
         Me.clickButton3.UseVisualStyleBackColor = False
         '
         'buttonReset

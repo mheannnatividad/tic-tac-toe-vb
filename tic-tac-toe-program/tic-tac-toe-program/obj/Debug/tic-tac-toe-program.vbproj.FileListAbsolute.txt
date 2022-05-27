@@ -1,0 +1,12 @@
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\bin\Debug\tic-tac-toe-program.exe.config
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\bin\Debug\tic-tac-toe-program.exe
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\bin\Debug\tic-tac-toe-program.pdb
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\bin\Debug\tic-tac-toe-program.xml
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\obj\Debug\tic-tac-toe-program.vbproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\obj\Debug\tic_tac_toe_program.Form1.resources
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\obj\Debug\tic_tac_toe_program.Resources.resources
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\obj\Debug\tic-tac-toe-program.vbproj.GenerateResource.cache
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\obj\Debug\tic-tac-toe-program.vbproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\obj\Debug\tic-tac-toe-program.exe
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\obj\Debug\tic-tac-toe-program.xml
+C:\Users\Rom\Desktop\tic-tac-toe-vb\tic-tac-toe-program\tic-tac-toe-program\obj\Debug\tic-tac-toe-program.pdb
